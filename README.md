@@ -1,1 +1,1 @@
-# Numbe Guessing Game
+# Number Guessing Game
