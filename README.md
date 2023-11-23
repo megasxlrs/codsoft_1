@@ -1,2 +1,3 @@
 # Number Guessing Game
-It is a number guessing game code written in c++ using classes and objects.
+
+Number Guessing Game written in c++ using classes and objects.
